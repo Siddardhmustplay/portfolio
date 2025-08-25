@@ -49,12 +49,6 @@ export default function Footer() {
             ))}
           </div>
 
-          <div className="flex items-center justify-center text-gray-400 text-sm">
-            <span>Made with</span>
-            <Heart className="h-4 w-4 mx-2 text-red-500 fill-current" />
-            <span>by Siddu Reddy Madakala</span>
-          </div>
-
           <p className="text-gray-500 text-xs mt-2">© 2024 All rights reserved.</p>
         </motion.div>
       </div>
